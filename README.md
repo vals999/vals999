@@ -13,7 +13,14 @@
 
 ### [- Pagina web para el alquiler de autos (alquilapp)](https://github.com/vals999/ING-software---Alquilapp)
 
+- Pagina web desarrollada con Ruby on rails
+- La pagina permite crear usuarios para el alquiler de autos.
+- API de mercado pago integrada para los pagos de alquileres.
+- Se utilizó para el diseño de la interfaz bootstrap.
+
 ### [- Consola retro](https://github.com/vals999/Consola-Retro-EDU-CIAA)
+
+- Se diseño una consola utilizando el microcontrolador EDU-CIAA, en el cual se diseño un poncho (PCB) utilizando la herramienta proteus.
 
 ## Otros Cursos 
 
