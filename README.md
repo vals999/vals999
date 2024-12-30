@@ -11,7 +11,9 @@
 - Se utilizo C para la configuración del ESP32.
 - Utiliza la tecnica de embeddings para enviar y comparar rostros con los de la base de datos.
 
-### Pagina web para el alquiler de autos (alquilapp)
+### [- Pagina web para el alquiler de autos (alquilapp)](https://github.com/vals999/ING-software---Alquilapp)
+
+### [- Consola retro](https://github.com/vals999/Consola-Retro-EDU-CIAA)
 
 ## Otros Cursos 
 
