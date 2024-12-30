@@ -21,9 +21,10 @@
 ### [- Consola retro](https://github.com/vals999/Consola-Retro-EDU-CIAA)
 
 - Se diseño una consola utilizando el microcontrolador EDU-CIAA, en el cual se diseño un poncho (PCB) utilizando la herramienta proteus.
+- El proyecto se realizo en la Facultad de Ingenieria de la UNLP, en la catedra de Taller de proyecto I.
 
 ## Otros Cursos 
 
 ### [- Pagina web Argentina Programa](https://github.com/vals999/vals999.github.io)
 
-##### Curso de argentina programa donde se utilizo HTML, CSS y javascript para la creación sencilla de una pagina web.
+#### Curso de argentina programa donde se utilizo HTML, CSS y javascript para la creación sencilla de una pagina web.
